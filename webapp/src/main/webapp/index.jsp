@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
    <hr>
-   <h1> Thankyou, Balamurugan Balasubramanian !!!!! Happy Learning </h1>
+   <h1> Thankyou, Balamurugan Balasubramanian !!!!! Welcome to the World of Kubernetes <br> Ansible,Jenkins,Docker </h1>
    <hr>
   
 </form>
